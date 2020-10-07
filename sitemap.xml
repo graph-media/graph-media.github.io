@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>graphmedia.co/graphmedia.co/about/</loc>
 <lastmod>2020-09-27T05:09:43+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>graphmedia.co/graphmedia.co/contact/</loc>
 <lastmod>2020-09-24T16:22:58+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
-<lastmod>2020-10-07T05:09:54+02:00</lastmod>
+<loc>graphmedia.co/graphmedia.co/</loc>
+<lastmod>2020-10-07T05:28:45+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/posts/</loc>
+<loc>graphmedia.co/graphmedia.co/posts/</loc>
 <lastmod>2020-07-22T06:05:57+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/projects/</loc>
+<loc>graphmedia.co/graphmedia.co/projects/</loc>
 <lastmod>2020-09-10T23:25:33+02:00</lastmod>
 </url>
 </urlset>
