@@ -9,7 +9,7 @@
  *                 /\___/                \ \____/
  *                 \/__/                  \/___/
  *
- * Powered by Hydejack v9.0.4 <https://hydejack.com/>
+ *    by Hydejack v9.0.4 <https://hydejack.com/>
  */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[8],{193:function(t,e,i){"use strict";i.r(e),i.d(e,"HyDrawer",(function(){return ot}));var n=i(174),r=i(163);
 /**

@@ -9,6 +9,6 @@
  *                 /\___/                \ \____/
  *                 \/__/                  \/___/
  *
- * Powered by Hydejack v9.0.4 <https://hydejack.com/>
+ *    by Hydejack v9.0.4 <https://hydejack.com/>
  */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[7],{186:function(n,w,o){"use strict";o.r(w);o(187),o(191)}}]);
