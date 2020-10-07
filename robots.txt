@@ -1,1 +1,1 @@
-Sitemap: graphmedia.co/graphmedia.co/sitemap.xml
+Sitemap: /sitemap.xml
